@@ -1,0 +1,15 @@
+C:\Users\jmlaw\OneDrive\Desktop\repos1\FactoryPatterns\FactoryPatterns\obj\Debug\net6.0\FactoryPatterns.csproj.AssemblyReference.cache
+C:\Users\jmlaw\OneDrive\Desktop\repos1\FactoryPatterns\FactoryPatterns\obj\Debug\net6.0\FactoryPatterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmlaw\OneDrive\Desktop\repos1\FactoryPatterns\FactoryPatterns\obj\Debug\net6.0\FactoryPatterns.AssemblyInfoInputs.cache
+C:\Users\jmlaw\OneDrive\Desktop\repos1\FactoryPatterns\FactoryPatterns\obj\Debug\net6.0\FactoryPatterns.AssemblyInfo.cs
+C:\Users\jmlaw\OneDrive\Desktop\repos1\FactoryPatterns\FactoryPatterns\obj\Debug\net6.0\FactoryPatterns.csproj.CoreCompileInputs.cache
+C:\Users\jmlaw\OneDrive\Desktop\repos1\FactoryPatterns\FactoryPatterns\bin\Debug\net6.0\FactoryPatterns.exe
+C:\Users\jmlaw\OneDrive\Desktop\repos1\FactoryPatterns\FactoryPatterns\bin\Debug\net6.0\FactoryPatterns.deps.json
+C:\Users\jmlaw\OneDrive\Desktop\repos1\FactoryPatterns\FactoryPatterns\bin\Debug\net6.0\FactoryPatterns.runtimeconfig.json
+C:\Users\jmlaw\OneDrive\Desktop\repos1\FactoryPatterns\FactoryPatterns\bin\Debug\net6.0\FactoryPatterns.dll
+C:\Users\jmlaw\OneDrive\Desktop\repos1\FactoryPatterns\FactoryPatterns\bin\Debug\net6.0\FactoryPatterns.pdb
+C:\Users\jmlaw\OneDrive\Desktop\repos1\FactoryPatterns\FactoryPatterns\obj\Debug\net6.0\FactoryPatterns.dll
+C:\Users\jmlaw\OneDrive\Desktop\repos1\FactoryPatterns\FactoryPatterns\obj\Debug\net6.0\refint\FactoryPatterns.dll
+C:\Users\jmlaw\OneDrive\Desktop\repos1\FactoryPatterns\FactoryPatterns\obj\Debug\net6.0\FactoryPatterns.pdb
+C:\Users\jmlaw\OneDrive\Desktop\repos1\FactoryPatterns\FactoryPatterns\obj\Debug\net6.0\FactoryPatterns.genruntimeconfig.cache
+C:\Users\jmlaw\OneDrive\Desktop\repos1\FactoryPatterns\FactoryPatterns\obj\Debug\net6.0\ref\FactoryPatterns.dll
